@@ -1,5 +1,4 @@
-{
-  "players": [
+"players": [
     {
       "id": 1,
       "type": "loan",
@@ -430,5 +429,4 @@
       "physical":79
     }
   ]
-}
 
